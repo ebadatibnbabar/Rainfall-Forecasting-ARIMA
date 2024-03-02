@@ -1,6 +1,8 @@
 # Rainfall Forecasting using ARIMA Model
 Application of the AutoRegressive Integrated Moving Average (ARIMA) model to forecast rainfall patterns. Leveraging time-series analysis techniques, it predicts future rainfall levels by analyzing historical data specifically from Bahawalnagar District, Punjab, Pakistan. Additionally, this project aids in anticipating drought patterns across the region.
 
+![Rainfall Forecasting ARIMA](/output-rainfall-forecast-arima.png)
+
 # Model Type
 The ARIMA (AutoRegressive Integrated Moving Average) model employed in this repository is a stochastic time series analysis technique utilized for forecasting rainfall patterns. ARIMA models are adept at capturing both short-term and long-term dependencies within sequential data, making them particularly suitable for modeling and predicting temporal phenomena such as rainfall fluctuations.
 
