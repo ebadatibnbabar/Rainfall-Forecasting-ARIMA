@@ -14,8 +14,7 @@ RStudio version 2023.06.1 Build 524
 # Citation
 If you use this repository or the data provided, please cite the following:
 
-- Pakistan Meteorological Department. (1992-2021). Rainfall Data. Retrieved from https://www.pmd.gov.pk/en/
-
 - Rehman, E. (2024). Rainfall Forecasting ARIMA. GitHub. https://github.com/ebadatibnbabar/Rainfall-Forecasting-ARIMA
+- Pakistan Meteorological Department. (1992-2021). Rainfall Data. Retrieved from https://www.pmd.gov.pk/en/
 
 
