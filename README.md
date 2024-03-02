@@ -5,7 +5,7 @@ Application of the AutoRegressive Integrated Moving Average (ARIMA) model to for
 The ARIMA (AutoRegressive Integrated Moving Average) model employed in this repository is a stochastic time series analysis technique utilized for forecasting rainfall patterns. ARIMA models are adept at capturing both short-term and long-term dependencies within sequential data, making them particularly suitable for modeling and predicting temporal phenomena such as rainfall fluctuations.
 
 # Data
-The repository contains time series data consisting of rainfall data spanning from 1992 to 2021. This data was meticulously recorded by the Pakistan Meteorological Department and obtained for M.Phil Research purposes.
+The repository contains time series data consisting of monthly rainfall data spanning from 1992 to 2021. This data was meticulously recorded by the Pakistan Meteorological Department and obtained for M.Phil Research purposes.
 
 # Requirements
 - RStudio version 2023.06.1 Build 524
